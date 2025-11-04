@@ -4,8 +4,8 @@ from discord.ext import commands
 from dotenv import load_dotenv
 
 # ========= Config =========
-WELCOME_CHANNEL_ID = 1418305580459757598       # main welcome channel
-LETS_GET_STARTED_CHANNEL_ID = 1425384538992934984  # "✅-lets-get-started" channel
+WELCOME_CHANNEL_ID = 1356730364566962454       # main welcome channel
+LETS_GET_STARTED_CHANNEL_ID = 1356730364566962455  # "✅-lets-get-started" channel
 
 WELCOME_MESSAGE = (
     "**🌈 Welcome to the Rainbow Nutrients Affiliate Community! 🌈**\n\n"
