@@ -68,6 +68,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-in this code what is the difference between the welcome channel id and the lets get started channel id
