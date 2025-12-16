@@ -51,21 +51,21 @@ WELCOME_MESSAGE = (
 PAYMENTS_PANEL_MESSAGE = (
     "**Payments Instructions**\n\n"
     "Click the button below to open a private payment ticket with the team.\n"
-    "In the ticket, share:\n"
-    "1) Campaign name\n"
-    "2) Retainer amount\n"
-    "3) Payout method\n"
-    "4) Any proof needed (screenshots, links)\n\n"
+    "In the ticket, share\n"
+    "1) Retainer Amount Due\n"
+    "2) Number of videos completed\n"
+    "3) Account Link \n"
+    "4) Invoice Link\n\n"
     "A staff member will help you and close the ticket once payment is done."
 )
 
 TICKET_OPEN_MESSAGE = (
     "**Payment Ticket Opened**\n\n"
     "Please send:\n"
-    "1) Campaign name\n"
-    "2) Amount\n"
-    "3) Payout method\n"
-    "4) Any links or screenshots\n\n"
+    "1) Retainer Amount Due\n"
+    "2) Invoice Link\n"
+    "3) Number of videos completed\n"
+    "4) Account Link\n\n"
     "Staff will review and close this ticket when done."
 )
 
